@@ -1,0 +1,20 @@
+--- 
+title: "A Minimal Book Example"
+author: "John Doe"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  BookTest
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# TesteRnorm
+
+```{r}
+plot(rnorm(100))
+```
