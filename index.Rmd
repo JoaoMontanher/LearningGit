@@ -16,5 +16,5 @@ github-repo: rstudio/bookdown-demo
 # TesteRnorm
 
 ```{r}
-plot(rnorm(100))
+plot(rnorm(1000))
 ```
