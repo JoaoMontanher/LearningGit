@@ -14,5 +14,5 @@ github-repo: JoaoMontanher/BookTest
 # TesteRnorm
 
 ```{r}
-plot(rnorm(1000))
+plot(rnorm(1000),main="Distribuição Normal")
 ```
